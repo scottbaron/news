@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /news
+exclude: ['README.md', 'other-folder']
